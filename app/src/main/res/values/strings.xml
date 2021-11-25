@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">خمّن الجواب</string>
+    <string name="false_text">خطأ</string>
+    <string name="true_text">صحيح</string>
+    <string name="back_text">الرجوع</string>
+    <string name="share_question_text">نشر السؤال</string>
+    <string name="share_title_hint">أدخل عنوان المشاركة</string>
+    <string name="change_lang_text">تغيير اللغة </string>
+    <string name="question">السؤال</string>
+    <string name="guess_game">لعبة خمّن</string>
+
+
+
+    <string-array name="questions">
+        <item>العملة الرسمية لدولة السعودية هي الدينار السعودي؟</item>
+        <item>توبقال هي أعلى قمة جبيلة في الوطن العربي؟</item>
+        <item>الجزائر هي أكبر دولة عربية من حيث المساحة؟</item>
+        <item>باتومي هي عاصمة جورجيا؟</item>
+    </string-array>
+
+    <string-array name="answers_details">
+        <item>العملة الرسمية لدولة السعودية هي الريال السعودية</item>
+        <item>توبقال هي أعلى قمة جبيلة في الوطن العربي وتقع في المغرب</item>
+        <item>الجزائر هي أكبر دولة عربية وإفريقية من حيث المساحة</item>
+        <item>تبليسي هي عاصمة جورجيا</item>
+    </string-array>
+    <array name="languages">
+        <item>العربية</item>
+        <item>English</item>
+        <item>français</item>
+
+    </array>
+
+
+
+</resources>
