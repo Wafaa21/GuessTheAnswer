@@ -8,6 +8,8 @@
     <string name="change_lang_text">change the language </string>
     <string name="question">Question</string>
     <string name="guess_game"> Guess Game</string>
+    <string name="correct_answer_is">The correct answer is </string>
+    <string name="share_question_freind">Share the question with friends</string>
 
 
 

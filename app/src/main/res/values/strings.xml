@@ -8,6 +8,8 @@
     <string name="change_lang_text">تغيير اللغة </string>
     <string name="question">السؤال</string>
     <string name="guess_game">لعبة خمّن</string>
+    <string name="correct_answer_is">الإجابة الصحيحة هي </string>
+    <string name="share_question_freind">شارك السؤال مع الأصدقاء</string>
 
 
 
@@ -19,7 +21,7 @@
     </string-array>
 
     <string-array name="answers_details">
-        <item>العملة الرسمية لدولة السعودية هي الريال السعودية</item>
+        <item>العملة الرسمية لدولة السعودية هي الريال السعودي</item>
         <item>توبقال هي أعلى قمة جبيلة في الوطن العربي وتقع في المغرب</item>
         <item>الجزائر هي أكبر دولة عربية وإفريقية من حيث المساحة</item>
         <item>تبليسي هي عاصمة جورجيا</item>

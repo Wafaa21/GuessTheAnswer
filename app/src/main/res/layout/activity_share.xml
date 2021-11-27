@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:background="@drawable/half_eclipse"
         android:gravity="center"
-        android:text="شارك الإجابة مع الأصدقاء "
+        android:text="@string/share_question_freind"
         android:textColor="@color/white"
         android:textSize="23sp"
         android:textStyle="bold"

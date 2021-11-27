@@ -8,6 +8,9 @@
     <string name="change_lang_text"> changer la langue </string>
     <string name="question">la question</string>
     <string name="guess_game">jeu de devinettes</string>
+    <string name="correct_answer_is">La bonne réponse est</string>
+    <string name="share_question_freind">Partagez la question avec des amis</string>
+
 
 
     <string-array name="questions">
